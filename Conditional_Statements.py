@@ -21,7 +21,19 @@ else:
     print(f"{num2}")
 
 
-# if / elif / else condition
+# if / elif / else condition (ONLY 1 Will be Executed)
+# if condition1:
+#     do A
+# elif condition2:
+#     do B
+# else:
+#     do C
 
-
+# Multiple if (If ALL Three are true, all three will be executed)
+# if condition1:
+#     do A
+# if condition2:
+#     do B
+# if condition3:
+#     do C
 
