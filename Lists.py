@@ -17,3 +17,24 @@ print(numbers)
 
 numbers.extend([20,40,60])
 print(numbers)
+
+
+# Nested Lists
+fruits = ["apple", "banana", "orange", "grapes"]
+vegetables = ["carrot", "patato", "tamatoes"]
+
+combined_list = [fruits, vegetables]
+print(combined_list)
+
+fruits1 = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+print(fruits1[3])
+print(fruits1[4])
+print(fruits1[-5])
+print(fruits1[-4])
+
+
+fruits = ["apple", "banana", "orange", "grapes"]
+print(fruits[0])
+print(fruits[1])
+print(fruits[2])
+print(fruits[3])
